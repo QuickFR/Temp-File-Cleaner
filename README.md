@@ -23,13 +23,6 @@ A lightweight and efficient temporary file cleaner for Windows. This tool helps 
 - 🏢 Windows 10, Windows 11
 - 🔑 Requires administrator privileges for full access
 
-## ⚠️ Disclaimer
-Use this software at your own risk. Always ensure you are not deleting files that are currently in use by your system. ❗
-his project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-If you'd like to contribute, feel free to fork the repository and submit a pull request! 🔧
-
 ---
 
 Created with ❤️ by QuickFR
