@@ -25,15 +25,10 @@ A lightweight and efficient temporary file cleaner for Windows. This tool helps 
 
 ## ⚠️ Disclaimer
 Use this software at your own risk. Always ensure you are not deleting files that are currently in use by your system. ❗
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+his project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request! 🔧
-
-## 📞 Support
-For any issues, please create a new issue in the [GitHub Issues](https://github.com/yourusername/temp-file-cleaner/issues) section.
 
 ---
 
